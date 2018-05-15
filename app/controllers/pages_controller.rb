@@ -1,5 +1,5 @@
 class PagesController < ApplicationController
-  def frigoff 
+  def takeoff 
     
   end
 end
