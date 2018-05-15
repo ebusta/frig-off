@@ -20,3 +20,16 @@ a:link {
 a:visited {
   color: black;
 }
+
+body {
+	background-color: #201EC7;
+}
+pre {
+	color: #F62EC8;
+}
+.center {
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+	text-align: center;
+}
