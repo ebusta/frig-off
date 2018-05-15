@@ -1,5 +1,5 @@
 class PagesController < ApplicationController
-  def takeoff 
+  def index 
     
   end
 end
